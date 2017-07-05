@@ -1,2 +1,2 @@
 # master
-main repository
+CPU_benchs repository
